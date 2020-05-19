@@ -1,5 +1,7 @@
 # Club Administration
 
+![.NET Core](https://github.com/jfuerlinger/csharp_samples_webapi_razorpages_clubadministration-template/workflows/.NET%20Core/badge.svg)
+
 ## Lehrziele
 
 * ASP.NET Core Razor Pages
